@@ -68,11 +68,17 @@
 ---
 
 ### 🚀 Featured Projects
-- [📌 To-Do List App](https://github.com/SanmitaBiswas/todolist) – MERN stack project with user authentication  
-- [🤖 AI Chatbot](https://github.com/SanmitaBiswas/AI-Chatbot) – Built using Python NLTK  
-- [🌐 Portfolio Website](https://github.com/SanmitaBiswas/portfolio) – Personal portfolio using React + TailwindCSS  
+
+- **[TodoList](https://github.com/SanmitaBiswas/TodoList)** – A dynamic to-do list app built with JavaScript, featuring creation, deletion, and task management. *(Updated on September 7, 2025)*  
+- **[MovieTicketBooking](https://github.com/SanmitaBiswas/MovieTicketBooking)** – A PHP and JavaScript-based web app using WAMP for booking movie tickets. *(Updated on September 6, 2025)*  
+- **[calculatorTTS](https://github.com/SanmitaBiswas/calculatorTTS)** – Java-based calculator that speaks the result back to you. *(Updated on August 7, 2025)*  
+- **[videoPlayer](https://github.com/SanmitaBiswas/videoPlayer)** – A custom video player built in Java. *(Updated on August 7, 2025)*  
+- **[Bluetooth](https://github.com/SanmitaBiswas/Bluetooth)** – A Java project to toggle Bluetooth via buttons. *(Updated on August 7, 2025)*  
+- **[Android_Internship](https://github.com/SanmitaBiswas/Android_Internship)** – Java-based Android app project, possibly tied to an internship. *(Updated on July 25, 2025)*  
+- **[WebDev-Internship](https://github.com/SanmitaBiswas/WebDev-Internship)** – An HTML-based web development project, likely an internship deliverable. *(Updated on May 16, 2025)*  
 
 ---
+
 
 ### 📊 GitHub Stats
 <p align="center">
