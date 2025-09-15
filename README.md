@@ -13,8 +13,7 @@
 - 🎓 I’m a **B.Tech CSE student at Shri Ram Murti Smarak College of Engineering and Technology, Bareilly**  
 - 💻 Currently learning **React, Python, and MERN stack**  
 - 🌱 Interested in **AI/ML, Web Development, and App Development**  
-- 📫 Reach me at: **sanmitabiswas@gmail.com**  
-- ⚡ Fun fact: **I think I am funny 😄**  
+- 📫 Reach me at: **sanmitabiswas@gmail.com** 
 
 ---
 
